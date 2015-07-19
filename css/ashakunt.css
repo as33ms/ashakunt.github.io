@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Abel|PT+Sans|Poiret+One);
+
+.abel {
+    font-family: 'Abel', sans-serif;
+}
+
+.ptsans {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.poiret {
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+}
+
+.t-xl {
+    font-size: 38px;
+}
